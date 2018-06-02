@@ -1,7 +1,8 @@
 #include <stdio.h>
 void main(){
     int x = 0;
-    printf("%d",x);
+    printf("Commit 1");
     printf("Commit 2");
+    printf("Commit 3");
 }
 
